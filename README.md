@@ -19,3 +19,6 @@ This project includes two pages:
 ## Technologies
 
 - HTML, CSS, JavaScript
+- MySQL for database management
+    - Stored Procedures: Select, Insert, Update, and Delete.
+    - Database Schema Diagram.
